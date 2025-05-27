@@ -1,5 +1,6 @@
 ## Hi there!👋 I am Supriyo Ghorui
 “First, solve the problem. Then, write the code.” – John Johnson
+
 👨‍💻 About Me
 I'm a Software Developer who thrives on building robust backend systems and solving challenging problems through clean, logical code. Whether it's optimizing an algorithm or designing efficient data flows, I enjoy turning complex ideas into scalable solutions.
 
