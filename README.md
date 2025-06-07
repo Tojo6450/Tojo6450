@@ -1,5 +1,6 @@
 ## Hi there!👋 I am Supriyo Ghorui
-“First, solve the problem. Then, write the code.” – John Johnson
+“Programs must be written for people to read, and only incidentally for machines to execute.”
+— Harold Abelson
 
 ## 👨‍💻 About Me
 
