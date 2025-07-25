@@ -41,7 +41,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Tojo6450/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tojo6450&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
