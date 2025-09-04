@@ -1,9 +1,9 @@
-
 <h1 align="center">
   Hi there, I'm Supriyo Ghorui 👋
 </h1>
+
 <p align="center">
-  A passionate software developer, persuing B.Tech from IIIT Ranchi. I love building beautiful and functional web applications.
+  A passionate software developer, pursuing B.Tech from IIIT Ranchi. I love building beautiful and functional web applications, exploring new technologies, and contributing to meaningful projects.
 </p>
 
 <p align="center">
@@ -20,26 +20,22 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🌱 About Me
+- Currently exploring the world of **software development and web applications**.  
+- Passionate about **learning new skills** and improving myself every day.  
+- Enjoy **collaborating on projects** and contributing to meaningful work.  
+- Curious about **emerging tech trends** and how they can solve real-world problems.  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-  </a>
-</p>
+---
+
+### 🎯 Goals
+- Grow as a **full-stack developer** and build impactful applications.  
+- Continuously improve my **problem-solving and coding skills**.  
+- Explore opportunities to **innovate and create tools** that make life easier.  
 
 ---
 
 ### 📊 My GitHub Stats
-
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tojo6450&layout=compact&theme=radical&hide_border=true" />
 </p>
