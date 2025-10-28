@@ -26,12 +26,6 @@
 - Enjoy **collaborating on projects** and contributing to meaningful work.  
 - Curious about **emerging tech trends** and how they can solve real-world problems.  
 
----
-
-### 🎯 Goals
-- Grow as a **full-stack developer** and build impactful applications.  
-- Continuously improve my **problem-solving and coding skills**.  
-- Explore opportunities to **innovate and create tools** that make life easier.  
 
 ---
 
